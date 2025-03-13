@@ -1,0 +1,17 @@
+id_match,marcou_gol,sofreu_gol,kick-off,resultado,locale,jogos_cumulativos,gols_marcados,gols_sofridos,gols_marcados_acumulados,gols_sofridos_acumulados,diferença_gols_acumulados,year,month,weekday
+CA1,Sim,Sim,2025-01-12 16:00:00,Derrota,Casa,1,1,2,1,2,-1,2025,Jan,Sun
+CA2,Sim,Sim,2025-01-16 18:30:00,Empate,Fora,2,1,1,2,3,-1,2025,Jan,Thu
+AM1,Não,Não,2025-01-19 17:00:00,Empate,Fora,3,0,0,2,3,-1,2025,Jan,Sun
+CA3,Sim,Sim,2025-01-19 18:30:00,Derrota,Casa,4,1,2,3,5,-2,2025,Jan,Sun
+CA4,Sim,Não,2025-01-22 19:00:00,Vitória,Fora,5,5,0,8,5,3,2025,Jan,Wed
+CA5,Sim,Não,2025-01-25 16:30:00,Vitória,Fora,6,2,0,10,5,5,2025,Jan,Sat
+CA6,Sim,Não,2025-01-30 21:30:00,Vitória,Casa,7,2,0,12,5,7,2025,Jan,Thu
+SC1,Sim,Sim,2025-02-02 16:00:00,Vitória,Neutro,8,3,1,15,6,9,2025,Feb,Sun
+CA8,Sim,Não,2025-02-05 19:00:00,Vitória,Fora,9,5,0,20,6,14,2025,Feb,Wed
+CA9,Não,Não,2025-02-08 16:30:00,Empate,Fora,10,0,0,20,6,14,2025,Feb,Sat
+CA10,Sim,Não,2025-02-12 21:30:00,Vitória,Casa,11,1,0,21,6,15,2025,Feb,Wed
+CA11,Sim,Não,2025-02-15 21:45:00,Vitória,Casa,12,2,0,23,6,17,2025,Feb,Sat
+CA12,Sim,Não,2025-02-22 19:00:00,Vitória,Casa,13,5,0,28,6,22,2025,Feb,Sat
+CA13,Sim,Não,2025-03-01 17:45:00,Vitória,Fora,14,1,0,29,6,23,2025,Mar,Sat
+CA14,Sim,Sim,2025-03-08 17:45:00,Vitória,Casa,15,2,1,31,7,24,2025,Mar,Sat
+CA15,Sim,Sim,2025-03-12 21:30:00,Vitória,Fora,16,2,1,33,8,25,2025,Mar,Wed

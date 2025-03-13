@@ -1,0 +1,17 @@
+id_match,home_team,away_team,home_score,away_score,tournament,kick-off,stadium,attendance,notes,torneio,locale,resultado,gols_casa,gols_sofridos_casa,gols_fora,gols_sofridos_fora,marcou_gol,sofreu_gol,jogos_cumulativos,year,month,weekday
+CA1,Flamengo,Boa Vista-RJ,1,2,Carioca - Round 1,2025-01-12 16:00:00,Estádio Batistão-SE,3793,Time B,Carioca,Casa,Derrota,1,2,0,0,Sim,Sim,1,2025,Jan,Sun
+CA2,Madureira-RJ,Flamengo,1,1,Carioca - Round 2,2025-01-16 18:30:00,Estádio Governador Ernani Sátyro-PB,3614,Time B,Carioca,Fora,Empate,0,0,1,1,Sim,Sim,2,2025,Jan,Thu
+AM1,São Paulo,Flamengo,0,0,International Friendly Game,2025-01-19 17:00:00,Chase Stadium-USA,21550,Time A - Amistoso,International Friendly Game,Fora,Empate,0,0,0,0,Não,Não,3,2025,Jan,Sun
+CA3,Flamengo,Nova Iguaçu-RJ,1,2,Carioca - Round 3,2025-01-19 18:30:00,Estádio Governador Ernani Sátyro-PB,3614,Time B,Carioca,Casa,Derrota,1,2,0,0,Sim,Sim,4,2025,Jan,Sun
+CA4,Bangu,Flamengo,0,5,Carioca - Round 4,2025-01-22 19:00:00,Estádio Governador João Castelo-MA,29820,Time B,Carioca,Fora,Vitória,0,0,5,0,Sim,Não,5,2025,Jan,Wed
+CA5,Volta Redonda,Flamengo,0,2,Carioca - Round 5,2025-01-25 16:30:00,Estádio Nacional Mané Garrincha-DF,23872,Time A,Carioca,Fora,Vitória,0,0,2,0,Sim,Não,6,2025,Jan,Sat
+CA6,Flamengo,Sampaio Correia-RJ,2,0,Carioca - Round 6,2025-01-30 21:30:00,Maracanã-RJ,18423,Time A,Carioca,Casa,Vitória,2,0,0,0,Sim,Não,7,2025,Jan,Thu
+SC1,Botafogo,Flamengo,1,3,Supercopa do Brasil,2025-02-02 16:00:00,Estádio Olímpico do Pará-PA,44952,Time A,Supercopa do Brasil,Neutro,Vitória,0,0,3,1,Sim,Sim,8,2025,Feb,Sun
+CA8,Portuguesa-RJ,Flamengo,0,5,Carioca - Round 7,2025-02-05 19:00:00,Estádio Parque do Sabiá-MG,16396,Time A,Carioca,Fora,Vitória,0,0,5,0,Sim,Não,9,2025,Feb,Wed
+CA9,Fluminense,Flamengo,0,0,Carioca - Round 8,2025-02-08 16:30:00,Maracanã-RJ,34617,Time A,Carioca,Fora,Empate,0,0,0,0,Não,Não,10,2025,Feb,Sat
+CA10,Flamengo,Botafogo,1,0,Carioca - Round 9,2025-02-12 21:30:00,Maracanã-RJ,30876,Time A,Carioca,Casa,Vitória,1,0,0,0,Sim,Não,11,2025,Feb,Wed
+CA11,Flamengo,Vasco,2,0,Carioca - Round 10,2025-02-15 21:45:00,Maracanã-RJ,44543,Time A,Carioca,Casa,Vitória,2,0,0,0,Sim,Não,12,2025,Feb,Sat
+CA12,Flamengo,Maricá-RJ,5,0,Carioca - Round 11,2025-02-22 19:00:00,Maracanã-RJ,27151,Time A,Carioca,Casa,Vitória,5,0,0,0,Sim,Não,13,2025,Feb,Sat
+CA13,Vasco,Flamengo,0,1,Carioca - Semifinals - First Leg,2025-03-01 17:45:00,Estádio Nilton Santos-RJ,10966,Time A,Carioca,Fora,Vitória,0,0,1,0,Sim,Não,14,2025,Mar,Sat
+CA14,Flamengo,Vasco,2,1,Carioca - Semifinals - Second Leg,2025-03-08 17:45:00,Maracanã-RJ,51379,Time A,Carioca,Casa,Vitória,2,1,0,0,Sim,Sim,15,2025,Mar,Sat
+CA15,Fluminense,Flamengo,1,2,Carioca - Finals - First Leg,2025-03-12 21:30:00,Maracanã-RJ,39120,Time A,Carioca,Fora,Vitória,0,0,2,1,Sim,Sim,16,2025,Mar,Wed
