@@ -13,5 +13,6 @@ CA10,Flamengo,Botafogo,1,0,Carioca - Round 9,2025-02-12 21:30:00,Maracanã-RJ,30
 CA11,Flamengo,Vasco,2,0,Carioca - Round 10,2025-02-15 21:45:00,Maracanã-RJ,44543,Time A,Carioca,Casa,Vitória,2,0,0,0,Sim,Não,12,2025,Feb,Sat
 CA12,Flamengo,Maricá-RJ,5,0,Carioca - Round 11,2025-02-22 19:00:00,Maracanã-RJ,27151,Time A,Carioca,Casa,Vitória,5,0,0,0,Sim,Não,13,2025,Feb,Sat
 CA13,Vasco,Flamengo,0,1,Carioca - Semifinals - First Leg,2025-03-01 17:45:00,Estádio Nilton Santos-RJ,10966,Time A,Carioca,Fora,Vitória,0,0,1,0,Sim,Não,14,2025,Mar,Sat
-CA14,Flamengo,Vasco,2,1,Carioca - Semifinals - Second Leg,2025-03-08 17:45:00,Maracanã-RJ,51379,Time A,Carioca,Casa,Vitória,2,1,0,0,Sim,Sim,15,2025,Mar,Sat
+CA14,Flamengo,Vasco,2,1,Carioca - Semifinals - Second Leg,2025-03-08 17:45:00,Maracanã-RJ,51379,Classificado para final,Carioca,Casa,Vitória,2,1,0,0,Sim,Sim,15,2025,Mar,Sat
 CA15,Fluminense,Flamengo,1,2,Carioca - Finals - First Leg,2025-03-12 21:30:00,Maracanã-RJ,39120,Time A,Carioca,Fora,Vitória,0,0,2,1,Sim,Sim,16,2025,Mar,Wed
+CA16,Flamengo,Fluminense,0,0,Carioca - Finals - Second Leg,2025-03-16 16:00:00,Maracanã-RJ,64351,Campeão do Carioca,Carioca,Casa,Empate,0,0,0,0,Não,Não,17,2025,Mar,Sun
