@@ -69,7 +69,7 @@ Jogos em que sofreu gol: 9
 Aproveitamento: 72.46%
 Aproveitamento pontos: 50/69
 
-*Filipe Luiz tem apenas 1 derrota no ano.
+*Filipe Luís tem apenas 1 derrota no ano.
 
 ```
 | Jogador           |   Gols |   Assistências |
