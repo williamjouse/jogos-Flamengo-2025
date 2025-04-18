@@ -16,3 +16,9 @@ CA13,Sim,Não,2025-03-01 17:45:00,Vitória,Fora,14,1,0,29,6,23,2025,Mar,Sat
 CA14,Sim,Sim,2025-03-08 17:45:00,Vitória,Casa,15,2,1,31,7,24,2025,Mar,Sat
 CA15,Sim,Sim,2025-03-12 21:30:00,Vitória,Fora,16,2,1,33,8,25,2025,Mar,Wed
 CA16,Não,Não,2025-03-16 16:00:00,Empate,Casa,17,0,0,33,8,25,2025,Mar,Sun
+BR1,Sim,Sim,2025-03-29 21:00:00,Empate,Casa,18,1,1,34,9,25,2025,Mar,Sat
+LIB1,Sim,Não,2025-04-03 21:30:00,Vitória,Fora,19,1,0,35,9,26,2025,Apr,Thu
+BR2,Sim,Sim,2025-04-06 18:30:00,Vitória,Fora,20,2,1,37,10,27,2025,Apr,Sun
+LIB2,Sim,Sim,2025-04-09 21:30:00,Derrota,Casa,21,1,2,38,12,26,2025,Apr,Wed
+BR3,Sim,Não,2025-04-13 17:30:00,Vitória,Fora,22,2,0,40,12,28,2025,Apr,Sun
+BR4,Sim,Não,2025-04-16 21:30:00,Vitória,Casa,23,6,0,46,12,34,2025,Apr,Wed
