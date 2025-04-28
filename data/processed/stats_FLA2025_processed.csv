@@ -22,3 +22,6 @@ BR2,Sim,Sim,2025-04-06 18:30:00,Vitória,Fora,20,2,1,37,10,27,2025,Apr,Sun
 LIB2,Sim,Sim,2025-04-09 21:30:00,Derrota,Casa,21,1,2,38,12,26,2025,Apr,Wed
 BR3,Sim,Não,2025-04-13 17:30:00,Vitória,Fora,22,2,0,40,12,28,2025,Apr,Sun
 BR4,Sim,Não,2025-04-16 21:30:00,Vitória,Casa,23,6,0,46,12,34,2025,Apr,Wed
+BR5,Não,Não,2025-04-19 18:30:00,Empate,Fora,24,0,0,46,12,34,2025,Apr,Sat
+LIB3,Não,Não,2025-04-22 19:00:00,Empate,Fora,25,0,0,46,12,34,2025,Apr,Tue
+BR6,Sim,Não,2025-04-28 16:00:00,Vitória,Casa,26,4,0,50,12,38,2025,Apr,Mon

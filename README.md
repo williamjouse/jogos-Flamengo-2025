@@ -55,40 +55,40 @@ Os dados dos jogos do Flamengo podem ser obtidos de várias fontes, como:
 ## Estatísticas
 
 ```
-Jogos: 23
-Vitórias: 15
-Empates: 5
+Jogos: 26
+Vitórias: 16
+Empates: 7
 Derrotas: 3*
-Gols pro: 46
+Gols pro: 50
 Gols contra: 12
-Saldo de gols: +34
-Gols/jogo: 2.0
-Gols sofridos/jogo: 0.52
-Jogos em que marcou: 20
+Saldo de gols: +38
+Gols/jogo: 1.92
+Gols sofridos/jogo: 0.46
+Jogos em que marcou: 21
 Jogos em que sofreu gol: 9 
-Aproveitamento: 72.46%
-Aproveitamento pontos: 50/69
+Aproveitamento: 70.51%
+Aproveitamento pontos: 55/78
 
-*Filipe Luís tem apenas 1 derrota no ano.
+*Filipe Luis tem apenas 1 derrota no ano.
 
 ```
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Arrascaeta        |      6 |              4 |
+| Arrascaeta        |      7 |              5 |
 | Bruno Henrique    |      6 |              1 |
-| Wallace           |      4 |              2 |
 | Luiz Araújo       |      4 |              3 |
-| Juninho           |      3 |              0 |
+| Pedro             |      4 |              1 |
+| Wallace           |      4 |              2 |
 | Carlinhos         |      3 |              0 |
-| Pedro             |      2 |              0 |
+| Juninho           |      3 |              0 |
+| Everton Cebolinha |      2 |              1 |
 | Matheus Gonçalves |      2 |              0 |
 | Léo Ortiz         |      2 |              0 |
-| Wesley            |      1 |              2 |
-| Danilo            |      1 |              1 |
-| Plata             |      1 |              3 |
-| Pulgar            |      1 |              0 |
-| de la Cruz        |      1 |              0 |
-| Léo Pereira       |      1 |              0 |
+| Felipe Teresa     |      1 |              1 |
+| Thiaguinho        |      1 |              0 |
+| Alcaraz           |      1 |              0 |
+| Michael           |      1 |              3 |
+| Gonzalo Plata     |      1 |              0 |
 
 
 
