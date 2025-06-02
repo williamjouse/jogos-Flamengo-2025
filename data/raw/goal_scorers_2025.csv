@@ -1,15 +1,15 @@
 id_match,gols,assist
 CA1,Carlinhos,NaN
 CA2,Thiaguinho,NaN
-CA3,Wallace,Guilherme
-CA4,Felipe Teresa,Wallace
-CA4,Wallace,Felipe Teresa
+CA3,Wallace Yan,Guilherme
+CA4,Felipe Teresa,Wallace Yan
+CA4,Wallace Yan,Felipe Teresa
 CA4,Carlinhos,Guilherme
 CA4,Guilherme,Daniel Sales
 CA4,Carlinhos,NaN
 CA5,Michael,NaN
 CA5,Gonzalo Plata,NaN
-CA6,Wallace,Luiz Araújo
+CA6,Wallace Yan,Luiz Araújo
 CA6,Alcaraz,Luiz Araújo
 SC1,Bruno Henrique,Pênalti
 SC1,Bruno Henrique,Michael
@@ -18,7 +18,7 @@ CA8,Juninho,NaN
 CA8,Luiz Araújo,NaN
 CA8,Arrascaeta,Pênalti
 CA8,Matheus Gonçalves,Arrascaeta
-CA8,Wallace,Guilherme
+CA8,Wallace Yan,Guilherme
 CA10,Léo Ortiz,Danilo
 CA11,Bruno Henrique,Pênalti
 CA11,Everton Cebolinha,Wesley
@@ -26,7 +26,7 @@ CA12,Gerson,NaN
 CA12,Léo Ortiz,NaN
 CA12,Arrascaeta,Plata
 CA12,Luiz Araújo,Arrascaeta
-CA12,Matheus Gonçalves,Wallace
+CA12,Matheus Gonçalves,Wallace Yan
 CA13,Bruno Henrique,Plata
 CA14,Bruno Henrique,NaN
 CA14,Luiz Araújo,Gerson
@@ -49,3 +49,21 @@ BR6,Everton Cebolinha,Arrascaeta
 BR6,Arrascaeta,Pedro
 BR6,Pedro,NaN
 BR6,Pedro,Pênalti
+CB1,Joshua,NaN
+BR7,Arrascaeta,Gerson
+LIB4,Arrascaeta,Gerson
+BR8,Arrascaeta,Michael
+LIB5,Léo Ortiz,Luiz Araújo
+LIB5,Luiz Araújo,NaN
+CB2,Danilo,Pedro
+CB2,Pedro,Everton Cebolinha
+CB2,Varela,Ayrton Lucas
+CB2,Everton Cebolinha,Varela
+BR10,Arrascaeta,Pênalti
+BR10,Ayrton Lucas, Wallace Yan
+LIB6,Léo Pereira,Luiz Araújo
+BR11,Arrascaeta,Léo Ortiz
+BR11,Evertton Araújo,Varela
+BR11,Luiz Araújo,Arrascaeta
+BR11,Michael,Varela
+BR11,Luiz Araújo,Pedro

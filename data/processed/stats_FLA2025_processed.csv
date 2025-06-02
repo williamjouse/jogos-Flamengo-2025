@@ -25,3 +25,13 @@ BR4,Sim,Não,2025-04-16 21:30:00,Vitória,Casa,23,6,0,46,12,34,2025,Apr,Wed
 BR5,Não,Não,2025-04-19 18:30:00,Empate,Fora,24,0,0,46,12,34,2025,Apr,Sat
 LIB3,Não,Não,2025-04-22 19:00:00,Empate,Fora,25,0,0,46,12,34,2025,Apr,Tue
 BR6,Sim,Não,2025-04-28 16:00:00,Vitória,Casa,26,4,0,50,12,38,2025,Apr,Mon
+CB1,Sim,Não,2025-05-01 20:00:00,Vitória,Fora,27,1,0,51,12,39,2025,May,Thu
+BR7,Sim,Sim,2025-05-04 18:30:00,Derrota,Fora,28,1,2,52,14,38,2025,May,Sun
+LIB4,Sim,Sim,2025-05-07 21:30:00,Empate,Fora,29,1,1,53,15,38,2025,May,Wed
+BR8,Sim,Não,2025-05-10 21:00:00,Vitória,Casa,30,1,0,54,15,39,2025,May,Sat
+LIB5,Sim,Não,2025-05-15 21:30:00,Vitória,Casa,31,2,0,56,15,41,2025,May,Thu
+BR9,Não,Não,2025-05-18 18:30:00,Empate,Casa,32,0,0,56,15,41,2025,May,Sun
+CB2,Sim,Sim,2025-05-21 21:30:00,Vitória,Casa,33,4,2,60,17,43,2025,May,Wed
+BR10,Sim,Não,2025-05-25 16:00:00,Vitória,Fora,34,2,0,62,17,45,2025,May,Sun
+LIB6,Sim,Não,2025-05-28 21:30:00,Vitória,Casa,35,1,0,63,17,46,2025,May,Wed
+BR11,Sim,Não,2025-06-01 18:30:00,Vitória,Casa,36,5,0,68,17,51,2025,Jun,Sun
