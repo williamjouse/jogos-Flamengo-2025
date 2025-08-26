@@ -24,13 +24,13 @@ CA11,Bruno Henrique,Pênalti
 CA11,Everton Cebolinha,Wesley
 CA12,Gerson,
 CA12,Léo Ortiz,
-CA12,Arrascaeta,Plata
+CA12,Arrascaeta,Gonzalo Plata
 CA12,Luiz Araújo,Arrascaeta
 CA12,Matheus Gonçalves,Wallace Yan
-CA13,Bruno Henrique,Plata
+CA13,Bruno Henrique,Gonzalo Plata
 CA14,Bruno Henrique,
 CA14,Luiz Araújo,Gerson
-CA15,Wesley,Plata
+CA15,Wesley,Gonzalo Plata
 CA15,Juninho,
 BR1,Léo Pereira,Michael
 LIB1,Juninho,Bruno Henrique
@@ -40,7 +40,7 @@ LIB2,de la Cruz,
 BR3,Arrascaeta,
 BR3,Arrascaeta,Everton Cebolinha
 BR4,Pulgar,Arrascaeta
-BR4,Plata,Gerson
+BR4,Gonzalo Plata,Gerson
 BR4,Danilo,Arrascaeta
 BR4,Arrascaeta,Michael
 BR4,Pedro,Wesley
@@ -67,3 +67,35 @@ BR11,Evertton Araújo,Varela
 BR11,Luiz Araújo,Arrascaeta
 BR11,Michael,Varela
 BR11,Luiz Araújo,Pedro
+CM1,Arrascaeta,Luiz Araújo
+CM1,Luiz Araújo,Jorginho
+CM2,Bruno Henrique,Gonzalo Plata
+CM2,Danilo,Bruno Henrique
+CM2,Wallace Yan,Gonzalo Plata
+CM3,Wallace Yan,Jorginho
+CM4,Gerson,Arrascaeta
+CM4,Jorginho,Pênalti
+BR12,Luiz Araújo,Wesley
+BR12,Wallace Yan,
+BR14,Pedro,Léo Ortiz
+BR15,Léo Pereira,Arrascaeta
+BR15,Wesley,Wallace Yan
+BR16,Léo Ortiz,Luiz Araújo
+BR17,Arrascaeta,Gonzalo Plata
+CB4,Everton Cebolinha,Gonzalo Plata
+BR18,Léo Pereira,Samuel Lino
+BR18,Gonzalo Plata,Arrascaeta
+LIB7,Bruno Henrique,Luiz Araújo
+BR19,Pedro,Varela
+BR19,Pedro,Arrascaeta
+BR19,Gonzalo Plata,Arrascaeta
+LIB8,Arrascaeta,Gonzalo Plata
+LIB8,Pedro,Léo Pereira
+BR20,Samuel Lino,Arrascaeta
+BR20,Pedro,Arrascaeta
+BR20,Arrascaeta,Samuel Lino
+BR20,Pedro,Samuel Lino
+BR20,Samuel Lino,Varela
+BR20,Luiz Araújo,Pedro
+BR20,Pedro,Samuel Lino
+BR20,Bruno Henrique,Pênalti

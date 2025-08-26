@@ -55,42 +55,40 @@ Os dados dos jogos do Flamengo podem ser obtidos de várias fontes, como:
 ## Estatísticas
 
 ```
-Jogos: 36
-Vitórias: 23
-Empates: 9
-Derrotas: 4*
-Gols pro: 68
-Gols contra: 17
-Saldo de gols: +51
+Jogos: 53
+Vitórias: 35
+Empates: 11
+Derrotas: 7*
+Gols pro: 100
+Gols contra: 29
+Saldo de gols: +71
 Gols/jogo: 1.89
-Gols sofridos/jogo: 0.47
-Jogos em que marcou: 30
-Jogos em que sofreu gol: 12 
-Aproveitamento: 72.22%
-Aproveitamento pontos: 78/108
+Gols sofridos/jogo: 0.55
+Jogos em que marcou: 45
+Jogos em que sofreu gol: 21 
+Aproveitamento: 72.96%
+Aproveitamento pontos: 116/159
 
-*Filipe Luis tem apenas 2 derrota no ano.
+*Filipe Luis tem apenas 5 derrotas no ano.
 
 
 ```
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Arrascaeta        |     12 |              6 |
-| Luiz Araújo       |      7 |              5 |
-| Bruno Henrique    |      6 |              1 |
-| Pedro             |      5 |              3 |
-| Wallace Yan       |      4 |              2 |
-| Carlinhos         |      3 |              0 |
-| Everton Cebolinha |      3 |              2 |
+| Arrascaeta        |     16 |             13 |
+| Pedro             |     12 |              4 |
+| Luiz Araújo       |     10 |              8 |
+| Bruno Henrique    |      9 |              2 |
+| Wallace Yan       |      7 |              3 |
+| Everton Cebolinha |      4 |              2 |
+| Léo Pereira       |      4 |              1 |
+| Gonzalo Plata     |      4 |              8 |
+| Léo Ortiz         |      4 |              2 |
+| Danilo            |      3 |              1 |
+| Samuel Lino       |      2 |              4 |
 | Juninho           |      3 |              0 |
-| Léo Ortiz         |      3 |              1 |
 | Michael           |      2 |              4 |
-| Matheus Gonçalves |      2 |              0 |
-| Léo Pereira       |      2 |              0 |
-| Danilo            |      2 |              1 |
-| Alcaraz           |      1 |              0 |
-| Plata             |      1 |              3 |
-
+| Varela            |      1 |              5 |
 
 
 ## Gráficos
