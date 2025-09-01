@@ -1,54 +1,55 @@
 id_match,home_team,away_team,home_score,away_score,tournament,kick-off,stadium,attendance,notes
-CA1,Flamengo,Boa Vista-RJ,1,2,Carioca - Round 1,2025-01-12 16:00:00,Estádio Batistão-SE,3793,Time B
-CA2,Madureira-RJ,Flamengo,1,1,Carioca - Round 2,2025-01-16 18:30:00,Estádio Governador Ernani Sátyro-PB,3614,Time B
-AM1,São Paulo,Flamengo,0,0,International Friendly Game,2025-01-19 17:00:00,Chase Stadium-USA,21550,Time A - Amistoso
-CA3,Flamengo,Nova Iguaçu-RJ,1,2,Carioca - Round 3,2025-01-19 18:30:00,Estádio Governador Ernani Sátyro-PB,3614,Time B
-CA4,Bangu,Flamengo,0,5,Carioca - Round 4,2025-01-22 19:00:00,Estádio Governador João Castelo-MA,29820,Time B
-CA5,Volta Redonda,Flamengo,0,2,Carioca - Round 5,2025-01-25 16:30:00,Estádio Nacional Mané Garrincha-DF,23872,Time A
-CA6,Flamengo,Sampaio Correia-RJ,2,0,Carioca - Round 6,2025-01-30 21:30:00,Maracanã-RJ,18423,Time A
-SC1,Botafogo,Flamengo,1,3,Supercopa do Brasil,2025-02-02 16:00:00,Estádio Olímpico do Pará-PA,44952,Time A
-CA8,Portuguesa-RJ,Flamengo,0,5,Carioca - Round 7,2025-02-05 19:00:00,Estádio Parque do Sabiá-MG,16396,Time A
-CA9,Fluminense,Flamengo,0,0,Carioca - Round 8,2025-02-08 16:30:00,Maracanã-RJ,34617,Time A
-CA10,Flamengo,Botafogo,1,0,Carioca - Round 9,2025-02-12 21:30:00,Maracanã-RJ,30876,Time A
-CA11,Flamengo,Vasco,2,0,Carioca - Round 10,2025-02-15 21:45:00,Maracanã-RJ,44543,Time A
-CA12,Flamengo,Maricá-RJ,5,0,Carioca - Round 11,2025-02-22 19:00:00,Maracanã-RJ,27151,Time A
-CA13,Vasco,Flamengo,0,1,Carioca - Semifinals - First Leg,2025-03-01 17:45:00,Estádio Nilton Santos-RJ,10966,Time A
+CA1,Flamengo,Boa Vista-RJ,1,2,Carioca - Round 1,2025-01-12 16:00:00,Estádio Batistão-SE,3793,time sub-20 
+CA2,Madureira-RJ,Flamengo,1,1,Carioca - Round 2,2025-01-16 18:30:00,Estádio Governador Ernani Sátyro-PB,3614,time sub-20 
+AM1,São Paulo,Flamengo,0,0,International Friendly Game,2025-01-19 17:00:00,Chase Stadium-USA,21550,amistoso
+CA3,Flamengo,Nova Iguaçu-RJ,1,2,Carioca - Round 3,2025-01-19 18:30:00,Estádio Governador Ernani Sátyro-PB,3614,time sub-20 
+CA4,Bangu,Flamengo,0,5,Carioca - Round 4,2025-01-22 19:00:00,Estádio Governador João Castelo-MA,29820,time sub-20 
+CA5,Volta Redonda,Flamengo,0,2,Carioca - Round 5,2025-01-25 16:30:00,Estádio Nacional Mané Garrincha-DF,23872,
+CA6,Flamengo,Sampaio Correia-RJ,2,0,Carioca - Round 6,2025-01-30 21:30:00,Maracanã-RJ,18423,
+SC1,Botafogo,Flamengo,1,3,Supercopa do Brasil,2025-02-02 16:00:00,Estádio Olímpico do Pará-PA,44952,
+CA8,Portuguesa-RJ,Flamengo,0,5,Carioca - Round 7,2025-02-05 19:00:00,Estádio Parque do Sabiá-MG,16396,
+CA9,Fluminense,Flamengo,0,0,Carioca - Round 8,2025-02-08 16:30:00,Maracanã-RJ,34617,
+CA10,Flamengo,Botafogo,1,0,Carioca - Round 9,2025-02-12 21:30:00,Maracanã-RJ,30876,
+CA11,Flamengo,Vasco,2,0,Carioca - Round 10,2025-02-15 21:45:00,Maracanã-RJ,44543,
+CA12,Flamengo,Maricá-RJ,5,0,Carioca - Round 11,2025-02-22 19:00:00,Maracanã-RJ,27151,
+CA13,Vasco,Flamengo,0,1,Carioca - Semifinals - First Leg,2025-03-01 17:45:00,Estádio Nilton Santos-RJ,10966,
 CA14,Flamengo,Vasco,2,1,Carioca - Semifinals - Second Leg,2025-03-08 17:45:00,Maracanã-RJ,51379,Classificado para final
-CA15,Fluminense,Flamengo,1,2,Carioca - Finals - First Leg,2025-03-12 21:30:00,Maracanã-RJ,39120,Time A
+CA15,Fluminense,Flamengo,1,2,Carioca - Finals - First Leg,2025-03-12 21:30:00,Maracanã-RJ,39120,
 CA16,Flamengo,Fluminense,0,0,Carioca - Finals - Second Leg,2025-03-16 16:00:00,Maracanã-RJ,64351,Campeão do Carioca
-BR1,Flamengo,Internacional,1,1,Campeonato Brasileiro - Round 1,2025-03-29 21:00:00,Maracanã-RJ,45528,Time A
-LIB1,Deportivo Táchira-VEN,Flamengo,0,1,Copa Libertadores - Round 1,2025-04-03 21:30:00,Estádio Polideportivo de Pueblo Nuevo-VEN,18138,Time A
-BR2,Vitória,Flamengo,1,2,Campeonato Brasileiro - Round 2,2025-04-06 18:30:00,Barradão-BA,26707,Time A
-LIB2,Flamengo,Central Córdoba-ARG,1,2,Copa Libertadores - Round 2,2025-04-09 21:30:00,Maracanã-RJ,56515,Time A
-BR3,Grêmio,Flamengo,0,2,Campeonato Brasileiro - Round 3,2025-04-13 17:30:00,Arena do Grêmio-RS,23367,Time A
-BR4,Flamengo,Juventude,6,0,Campeonato Brasileiro - Round 4,2025-04-16 21:30:00,Maracanã-RJ,31445,Time A
-BR5,Vasco,Flamengo,0,0,Campeonato Brasileiro - Round 5,2025-04-19 18:30:00,Maracanã-RJ,37007,Time A
-LIB3,LDU-EQU,Flamengo,0,0,Copa Libertadores - Round 3,2025-04-22 19:00:00,Estádio Rodrigo Paz Delgado-EQU,17883,Time A
-BR6,Flamengo,Corinthians,4,0,Campeonato Brasileiro - Round 6,2025-04-28 16:00:00,Maracanã-RJ,67501,Time A
-CB1,Botafogo-PB,Flamengo,0,1,Copa do Brasil – Third Round - First Leg,2025-05-01 20:00:00,Estádio Castelão,35381,Time A
-BR7,Cruzeiro,Flamengo,2,1,Campeonato Brasileiro - Round 7,2025-05-04 18:30:00,Estádio Mineirão-MG,52792,Time A
-LIB4,Central Córdoba-ARG,Flamengo,1,1,Copa Libertadores - Round 4,2025-05-07 21:30:00,Estádio Unico Madre de Ciudades-ARG,19969,Time A
-BR8,Flamengo,Bahia,1,0,Campeonato Brasileiro - Round 8,2025-05-10 21:00:00,Maracanã-RJ,62204,Time A
-LIB5,Flamengo,LDU-EQU,2,0,Copa Libertadores - Round 5,2025-05-15 21:30:00,Maracanã-RJ,65831,Time A
-BR9,Flamengo,Botafogo,0,0,Campeonato Brasileiro - Round 9,2025-05-18 18:30:00,Maracanã-RJ,50255,Time A
-CB2,Flamengo,Botafogo-PB,4,2,Copa do Brasil - Third Round - Second Leg,2025-05-21 21:30:00,Maracanã-RJ,25814,Time A
-BR10,Palmeiras,Flamengo,0,2,Campeonato Brasileiro - Round 10,2025-05-25 16:00:00,Allianz Arena-RJ,41075,Time A
-LIB6,Flamengo,Deportivo Táchira-VEN,1,0,Copa Libertadores - Round 6,2025-05-28 21:30:00,Maracanã-RJ,66082,Time A
-BR11,Flamengo,Fortaleza,5,0,Campeonato Brasileiro - Round 11,2025-06-01 18:30:00,Maracanã-RJ,61132,Time A
-CM1,Flamengo,Esperance Tunis,2,0,Copa do Mundo de Clubes - Round 1,2025-06-16 22:00:00,Lincoln Financial Field-EUA,25797,Time A
-CM2,Flamengo,Chelsea,3,1,Copa do Mundo de Clubes - Round 2,2025-06-20 15:00:00,Lincoln Financial Field-EUA,54019,Time A
-CM3,Los Angeles FC,Flamengo,1,1,Copa do Mundo de Clubes - Round 3,2025-06-24 22:00:00,Camping World Stadium-EUA,32933,Time A
-CM4,Flamengo,Bayern de Munique,2,4,Copa do Mundo de Clubes - Round of 16,2025-06-29 17:00:00,Hard Rock Stadium-EUA,60914,Time A
-BR12,Flamengo,São Paulo,2,0,Campeonato Brasileiro - Round 12,2025-07-12 16:30:00,Maracanã-RJ,67359,Time A
-BR13,Santos,Flamengo,1,0,Campeonato Brasileiro - Round 13,2025-07-16 20:00:00,Vila Belmiro-SP,13541,Time A
-BR14,Flamengo,Fluminense,1,0,Campeonato Brasileiro - Round 14,2025-07-20 19:30:00,Maracanã-RJ,58416,Time A
-BR15,Red Bull Bragantino,Flamengo,1,2,Campeonato Brasileiro - Round 15,2025-07-23 21:30:00,Estádio Municipal Cicero De Souza Marques-SP,7537,Time A
-BR16,Flamengo,Atlético-MG,1,0,Campeonato Brasileiro - Round 16,2025-07-27 20:30:00,Maracanã-RJ,51345,Time A
-CB3,Flamengo,Atlético-MG,0,1,Copa do Brasil - Round of 16 – First Leg,2025-07-31 21:30:00,Maracanã-RJ,64681,Time A
-BR17,Ceará,Flamengo,1,1,Campeonato Brasileiro - Round 17,2025-08-03 18:30:00,Castelão-CE,57887,Time A
+BR1,Flamengo,Internacional,1,1,Campeonato Brasileiro - Round 1,2025-03-29 21:00:00,Maracanã-RJ,45528,
+LIB1,Deportivo Táchira-VEN,Flamengo,0,1,Copa Libertadores - Round 1,2025-04-03 21:30:00,Estádio Polideportivo de Pueblo Nuevo-VEN,18138,
+BR2,Vitória,Flamengo,1,2,Campeonato Brasileiro - Round 2,2025-04-06 18:30:00,Barradão-BA,26707,
+LIB2,Flamengo,Central Córdoba-ARG,1,2,Copa Libertadores - Round 2,2025-04-09 21:30:00,Maracanã-RJ,56515,
+BR3,Grêmio,Flamengo,0,2,Campeonato Brasileiro - Round 3,2025-04-13 17:30:00,Arena do Grêmio-RS,23367,
+BR4,Flamengo,Juventude,6,0,Campeonato Brasileiro - Round 4,2025-04-16 21:30:00,Maracanã-RJ,31445,
+BR5,Vasco,Flamengo,0,0,Campeonato Brasileiro - Round 5,2025-04-19 18:30:00,Maracanã-RJ,37007,
+LIB3,LDU-EQU,Flamengo,0,0,Copa Libertadores - Round 3,2025-04-22 19:00:00,Estádio Rodrigo Paz Delgado-EQU,17883,
+BR6,Flamengo,Corinthians,4,0,Campeonato Brasileiro - Round 6,2025-04-28 16:00:00,Maracanã-RJ,67501,
+CB1,Botafogo-PB,Flamengo,0,1,Copa do Brasil – Third Round - First Leg,2025-05-01 20:00:00,Estádio Castelão,35381,
+BR7,Cruzeiro,Flamengo,2,1,Campeonato Brasileiro - Round 7,2025-05-04 18:30:00,Estádio Mineirão-MG,52792,
+LIB4,Central Córdoba-ARG,Flamengo,1,1,Copa Libertadores - Round 4,2025-05-07 21:30:00,Estádio Unico Madre de Ciudades-ARG,19969,
+BR8,Flamengo,Bahia,1,0,Campeonato Brasileiro - Round 8,2025-05-10 21:00:00,Maracanã-RJ,62204,
+LIB5,Flamengo,LDU-EQU,2,0,Copa Libertadores - Round 5,2025-05-15 21:30:00,Maracanã-RJ,65831,
+BR9,Flamengo,Botafogo,0,0,Campeonato Brasileiro - Round 9,2025-05-18 18:30:00,Maracanã-RJ,50255,
+CB2,Flamengo,Botafogo-PB,4,2,Copa do Brasil - Third Round - Second Leg,2025-05-21 21:30:00,Maracanã-RJ,25814,
+BR10,Palmeiras,Flamengo,0,2,Campeonato Brasileiro - Round 10,2025-05-25 16:00:00,Allianz Arena-RJ,41075,
+LIB6,Flamengo,Deportivo Táchira-VEN,1,0,Copa Libertadores - Round 6,2025-05-28 21:30:00,Maracanã-RJ,66082,
+BR11,Flamengo,Fortaleza,5,0,Campeonato Brasileiro - Round 11,2025-06-01 18:30:00,Maracanã-RJ,61132,
+CM1,Flamengo,Esperance Tunis,2,0,Copa do Mundo de Clubes - Round 1,2025-06-16 22:00:00,Lincoln Financial Field-EUA,25797,
+CM2,Flamengo,Chelsea,3,1,Copa do Mundo de Clubes - Round 2,2025-06-20 15:00:00,Lincoln Financial Field-EUA,54019,
+CM3,Los Angeles FC,Flamengo,1,1,Copa do Mundo de Clubes - Round 3,2025-06-24 22:00:00,Camping World Stadium-EUA,32933,
+CM4,Flamengo,Bayern de Munique,2,4,Copa do Mundo de Clubes - Round of 16,2025-06-29 17:00:00,Hard Rock Stadium-EUA,60914,
+BR12,Flamengo,São Paulo,2,0,Campeonato Brasileiro - Round 12,2025-07-12 16:30:00,Maracanã-RJ,67359,
+BR13,Santos,Flamengo,1,0,Campeonato Brasileiro - Round 13,2025-07-16 20:00:00,Vila Belmiro-SP,13541,
+BR14,Flamengo,Fluminense,1,0,Campeonato Brasileiro - Round 14,2025-07-20 19:30:00,Maracanã-RJ,58416,
+BR15,Red Bull Bragantino,Flamengo,1,2,Campeonato Brasileiro - Round 15,2025-07-23 21:30:00,Estádio Municipal Cicero De Souza Marques-SP,7537,
+BR16,Flamengo,Atlético-MG,1,0,Campeonato Brasileiro - Round 16,2025-07-27 20:30:00,Maracanã-RJ,51345,
+CB3,Flamengo,Atlético-MG,0,1,Copa do Brasil - Round of 16 – First Leg,2025-07-31 21:30:00,Maracanã-RJ,64681,
+BR17,Ceará,Flamengo,1,1,Campeonato Brasileiro - Round 17,2025-08-03 18:30:00,Castelão-CE,57887,
 CB4,Atlético-MG,Flamengo,0,1,Copa do Brasil - Round of 16 - Second Leg,2025-08-06 19:00:00,Arena MRV-MG,38983,Desclassificado da Copa do Brasil
-BR18,Flamengo,Mirassol,2,1,Campeonato Brasileiro - Round 18,2025-08-09 18:30:00,Maracanã-RJ,64018,Time A
-LIB7,Flamengo,Internacional,1,0,Copa Libertadores - Round of 16 – First Leg,2025-08-13 21:30:00,Maracanã-RJ,68483,Time A
-BR19,Internacional,Flamengo,1,3,Campeonato Brasileiro - Round 19,2025-08-17 18:30:00,Beira Rio-RS,22241,Time A
-LIB8,Internacional,Flamengo,0,2,Copa Libertadores - Round of 16 - Second Leg,2025-08-20 21:30:00,Beira Rio-RS,43581,Classificado para quartas de finais
-BR19,Flamengo,Vitória,8,0,Campeonato Brasileiro - Round 20,2025-08-25 21:00:00,Maracanã-RJ,60642,Time A
+BR18,Flamengo,Mirassol,2,1,Campeonato Brasileiro - Round 18,2025-08-09 18:30:00,Maracanã-RJ,64018,
+LIB7,Flamengo,Internacional,1,0,Copa Libertadores - Round of 16 – First Leg,2025-08-13 21:30:00,Maracanã-RJ,68483,
+BR19,Internacional,Flamengo,1,3,Campeonato Brasileiro - Round 19,2025-08-17 18:30:00,Beira Rio-RS,22241,
+LIB8,Internacional,Flamengo,0,2,Copa Libertadores - Round of 16 - Second Leg,2025-08-20 21:30:00,Beira Rio-RS,43581,Classificado para as quartas de finais
+BR19,Flamengo,Vitória,8,0,Campeonato Brasileiro - Round 20,2025-08-25 21:00:00,Maracanã-RJ,60642,
+BR20,Flamengo,Grêmio,1,1,Campeonato Brasileiro - Round 21,2025-08-31 16:00:00,Maracanã-RJ,69447,

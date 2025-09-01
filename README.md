@@ -1,4 +1,4 @@
-# 🔴⚫ Jogos do Flamengo temporada 2025
+v# 🔴⚫ Jogos do Flamengo temporada 2025
 
 Bem-vindo ao repositório **Jogos do Flamengo**! Este projeto contém dados e 
 sobre as partidas da temporada 2025 do Flamengo.
@@ -55,19 +55,19 @@ Os dados dos jogos do Flamengo podem ser obtidos de várias fontes, como:
 ## Estatísticas
 
 ```
-Jogos: 53
+Jogos: 54
 Vitórias: 35
-Empates: 11
+Empates: 12
 Derrotas: 7*
-Gols pro: 100
-Gols contra: 29
+Gols pro: 101
+Gols contra: 30
 Saldo de gols: +71
-Gols/jogo: 1.89
-Gols sofridos/jogo: 0.55
-Jogos em que marcou: 45
-Jogos em que sofreu gol: 21 
-Aproveitamento: 72.96%
-Aproveitamento pontos: 116/159
+Gols/jogo: 1.87
+Gols sofridos/jogo: 0.56
+Jogos em que marcou: 46
+Jogos em que sofreu gol: 22 
+Aproveitamento: 72.22%
+Aproveitamento pontos: 117/162
 
 *Filipe Luis tem apenas 5 derrotas no ano.
 
@@ -75,8 +75,8 @@ Aproveitamento pontos: 116/159
 ```
 | Jogador           |   Gols |   Assistências |
 |:------------------|-------:|---------------:|
-| Arrascaeta        |     16 |             13 |
-| Pedro             |     12 |              4 |
+| Arrascaeta        |     17 |             13 |
+| Pedro             |     12 |              5 |
 | Luiz Araújo       |     10 |              8 |
 | Bruno Henrique    |      9 |              2 |
 | Wallace Yan       |      7 |              3 |
